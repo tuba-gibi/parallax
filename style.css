@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+h1 {
+  font-family: cursive;
+  font-size: 48px;
+  color: red;
+  vertical-align: middle;
+  margin: 0;
+}
+.chaos {
+  height: 100vh;
+  width: 100vw;
+  background-size: cover;
+  background-attachment: fixed;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+#gov {
+  background-image: url(./img/v\ for\ strength.jpeg);
+}
+#behind {
+  background-image: url(./img/v\ new.jpeg);
+}
+#special {
+  background-image: url(./img/v\ for\ fire.jpeg);
+}
+
+
+
+#rain {
+  background-image: url(./img/v\ for\ rain.jpeg);
+}
+
+#special h1{
+color: white;
+}
